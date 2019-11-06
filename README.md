@@ -3,7 +3,7 @@
 This solution is a part of my blog post [Adapter Design Pattern In C#](https://kudchikarsk.com/adapter-design-pattern-in-csharp/)
 
 
-Solution contains various Windows Forms App / Console App Project for different Publisher-Subscriber Design Pattern concepts in C#.
+Solution contains various Windows Forms App / Console App Project for different Adapter Pattern concepts in C#.
 
 
 #### To run a particular project
