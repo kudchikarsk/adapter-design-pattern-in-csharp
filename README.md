@@ -1,6 +1,6 @@
 # Adapter Pattern In C# Demo
 
-This solution is a part of my blog post [Adapter Design Pattern In C#](https://kudchikarsk.com/adapter-design-pattern-in-csharp/)
+This solution is a part of my blog post [Adapter Design Pattern In C#](https://codewithshadman.com/adapter-design-pattern-in-csharp/)
 
 
 Solution contains various Windows Forms App / Console App Project for different Adapter Pattern concepts in C#.
